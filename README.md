@@ -8,9 +8,11 @@ This platform demonstrates advanced autonomous agentic workflows where a supervi
 
 ## 🖥️ User Interface Preview
 
-> *A snapshot of the live Streamlit dashboard showcasing the agent network status, quick inspiration presets, active worker telemetry, and real-time execution logs.*
+> *A snapshot of the live Streamlit dashboard showcasing the agent real-time working.*
+<img width="1797" height="1005" alt="Screenshot From 2026-11-10 23-41-55" src="https://github.com/user-attachments/assets/d9070741-5549-4dbb-8fbb-7ca66110f5c8" />
 
-![Autonomous Multi-Agent Researcher Hub UI](Screenshot%20From%202026-11-10%23-41-55.png)
+
+
 
 ---
 
