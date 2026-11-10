@@ -139,6 +139,7 @@ To deploy this application live so public users can access it without managing A
 2. **Deploy on Streamlit Community Cloud:**
    * Go to [share.streamlit.io](https://share.streamlit.io/) and log in with GitHub.
    * Click **New app**, select your repository, branch (`main`), and set the main file path to `app.py`.
+    
 3. **Configure Secrets:**
    * Navigate to **Advanced settings** -> **Secrets**.
    * Add your Groq API key securely:
