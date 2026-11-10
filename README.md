@@ -1,6 +1,6 @@
 # 🤖 Autonomous Multi-Agent Researcher Hub
 
-An enterprise-grade, stateful **Multi-Agent Orchestration Platform** built with **LangGraph**, **Python 3.12**, **Streamlit**, and ultra-fast **Groq LPU Infrastructure**. 
+An enterprise-grade, stateful **Multi-Agent Orchestration Platform** built with **LangGraph**, **Streamlit**, **UV** and ultra-fast **Groq LPU Infrastructure**. 
 
 This platform demonstrates advanced autonomous agentic workflows where a supervisor router dynamically coordinates specialized worker nodes to perform complex data extraction, multi-step synthesis, and real-time Markdown report generation.
 
