@@ -2,6 +2,8 @@
 
 An enterprise-grade, stateful **Multi-Agent Orchestration Platform** built with **LangGraph**, **Streamlit**, **UV** and ultra-fast **Groq LPU Infrastructure**. 
 
+App Link : https://autonomous-multi-agent-researcher-tcfw7jmcgmavpdvlhtn89q.streamlit.app/
+
 This platform demonstrates advanced autonomous agentic workflows where a supervisor router dynamically coordinates specialized worker nodes to perform complex data extraction, multi-step synthesis, and real-time Markdown report generation.
 
 ---
